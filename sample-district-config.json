@@ -1,0 +1,17 @@
+{
+  "districtName": "Sample Public Schools",
+  "tagline": "Every Student. Every Day.",
+  "emailDomain": "sampledistrict.org",
+  "website": "https://www.sampledistrict.org",
+  "colors": {
+    "primary": "#1a73e8",
+    "accent": "#fbbc04",
+    "header": "#202124"
+  },
+  "buildings": [
+    { "name": "District Office", "phone": "555-100-1000", "fax": "555-100-1001" },
+    { "name": "High School", "phone": "555-100-1100", "fax": "555-100-1101" },
+    { "name": "Middle School", "phone": "555-100-1200", "fax": "555-100-1201" },
+    { "name": "Elementary School", "phone": "555-100-1300", "fax": "555-100-1301" }
+  ]
+}
